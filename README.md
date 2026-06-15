@@ -23,17 +23,17 @@ It also includes a license-hygiene table (CC0, MIT, CC BY, CC BY-SA, CC BY-NC, e
 
 ## Install
 
-Drop the `no-generated-art/` folder into your Claude skills directory, e.g.:
+Drop the `skills/no-generated-art/` folder into your Claude skills directory, e.g.:
 
 ```
 ~/.claude/skills/no-generated-art/SKILL.md
 ```
 
-Or package it as a `.skill` zip and install via your plugin manager.
+Or package the repo as a `.skill` zip and install via your plugin manager.
 
 ## Files
 
-- `SKILL.md` — the skill definition (frontmatter + body)
+- `skills/no-generated-art/SKILL.md` — the skill definition (frontmatter + body)
 - `LICENSE` — MIT
 - `README.md` — this file
 
