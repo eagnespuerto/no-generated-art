@@ -1,6 +1,6 @@
 ---
 name: no-generated-art
-description: Use when a task requires names, icons, illustrations, photos, logos, color palettes, music, or any other creative/aesthetic asset. Triggers on requests to "design", "make art for", "draw", "create an icon/logo/avatar", "pick a name for", "generate a palette", or anywhere a creative asset would otherwise be invented from scratch. Skip only when the user explicitly asks for AI-generated output.
+description: Use when a task needs names, icons, illustrations, photos, logos, palettes, fonts, audio, or any creative asset. Search open-source libraries instead of generating from scratch.
 ---
 
 # No Generated Art
