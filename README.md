@@ -4,6 +4,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Skill: SKILL.md](https://img.shields.io/badge/Skill-SKILL.md-blue.svg)](skills/no-generated-art/SKILL.md)
+[![release](https://img.shields.io/github/v/release/eagnespuerto/no-generated-art?include_prereleases&sort=semver)](https://github.com/eagnespuerto/no-generated-art/releases/latest)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-support%20me-FF5E5B?logo=kofi&logoColor=white)](https://ko-fi.com/eagnespuerto)
+[![Linktree](https://img.shields.io/badge/Linktree-soitsagnes-43E55E?logo=linktree&logoColor=white)](https://linktr.ee/soitsagnes)
 
 ## Install
 
